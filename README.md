@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there, I'm Ashish Sharma! 👋
 
 ### Aspiring Data Analyst | Python | SQL | Excel | Power BI
